@@ -1,5 +1,5 @@
 body {
-  color: #2d4059;
+  color: #2d334a;
   font-family: 'Merriweather', serif;
   font-size: 1rem;
   margin: 0;
@@ -7,14 +7,14 @@ body {
 }
 
 h1 {
-  color: #ea5455;
+  color: #0c9463;
   font-family: 'Pacifico', cursive;
   font-size: 3rem;
   margin: 50px auto 0 auto;
 }
 
 h2 {
-  color: #ea5455;
+  color: #0c9463;
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   font-weight: normal;
@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  color: #f07b3f;
+  color: #fab696;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -31,7 +31,7 @@ p {
 }
 
 hr {
-  border: 5px dotted #ffd460;
+  border: 5px dotted #fbe3b9;
   border-bottom: none;
   height: 5px;
   margin: 100px auto;
@@ -40,7 +40,7 @@ hr {
 
 /* TOP CONTAINER */
 .top-container {
-  background-color: #ffd460;
+  background-color: #fbe3b9;
   line-height: 1.5;
   padding-top: 60px;
   position: relative;
@@ -107,12 +107,12 @@ hr {
 /* BUTTON */
 .btn {
   box-shadow: 0px 1px 0px 0px #fff6af;
-  background: linear-gradient(to bottom, #ffd460 5%, #ffab23 100%);
-  background-color: #ffd460;
+  background: linear-gradient(to bottom, #fbe3b9 5%, #ffab23 100%);
+  background-color: #fbe3b9;
   border-radius: 10px;
   display: inline-block;
   cursor: pointer;
-  color: #2d4059;
+  color: #2d334a;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-weight: bold;
@@ -124,7 +124,7 @@ hr {
 .btn:hover {
   background: linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
   background-color: #ffab23;
-  color: #2d4059;
+  color: #2d334a;
 }
 
 .btn:active {
@@ -134,17 +134,17 @@ hr {
 
 /* BOTTOM-CONTAINER */
 .bottom-container {
-  background-color: #ea5455;
+  background-color: #0c9463;
   font-family: 'Montserrat', sans-serif;
   padding: 50px 0 20px;
 }
 
 .footer-link {
-  color: #f07b3f;
+  color: #fab696;
   font-weight: bold;
   margin: 10px 20px;
   text-decoration: none;
-  text-shadow: 1px 1px 1px #2d4059;
+  text-shadow: 1px 1px 1px #2d334a;
 }
 
 a:hover {
@@ -152,7 +152,7 @@ a:hover {
 }
 
 .copyright {
-  color: #ffd460;
+  color: #fbe3b9;
   font-size: 0.75rem;
 }
 
@@ -161,7 +161,7 @@ div.copyright {
 }
 
 .credit {
-  color: #f07b3f;
+  color: #fab696;
   text-decoration: none;
-  text-shadow: 1px 1px 2px #2d4059;
+  text-shadow: 1px 1px 2px #2d334a;
 }
