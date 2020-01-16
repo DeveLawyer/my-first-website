@@ -58,7 +58,7 @@ hr {
   position: absolute;
 }
 
-.top-container p {
+.top-container h2 {
   font-weight: normal;
 }
 
@@ -69,7 +69,8 @@ hr {
 
 .profile img {
   border-radius: 100%;
-  max-width: 15%;
+  max-width: 200px;
+  width: 30%;
 }
 
 .intro {
